@@ -89,7 +89,7 @@ onde cada participante adiciona seus próprios exemplos, testes e ideias relacio
 
 ## 👩‍💻 Organização
 
-- **Instrutora:** Camila Luisa Silva Machado  
+- **Instrutora:** Camila Luiza Silva Machado  
 - **Duração:** 5 semanas  
 - **Formato:** Assíncrono + apresentação semanal de aprendizados  
 - **Entrega:** via Pull Request
